@@ -5,7 +5,6 @@ A simple and beginner-friendly **console-based Bank Account System** developed u
 The project focuses on practicing fundamental **C# programming and Object-Oriented Programming (OOP)** concepts.
 
 ---
-
 ## 📌 Features
 
 * 👤 Create a bank account
@@ -46,7 +45,6 @@ This project demonstrates several fundamental C# concepts:
 * String interpolation
 
 ---
-
 ## 📂 Project Structure
 
 ```text
@@ -81,7 +79,6 @@ The class manages:
 * Deposit operations
 * Withdrawal operations
 * Balance information
-
 ---
 
 ## ▶️ How to Run
