@@ -176,6 +176,7 @@ BSc Data Science Student
 
 ---
 📧 Email: komaltarmzi@gmail.com 
+
 🔗 LinkedIn: Komal Tarmzi
 
 ## ⭐ Project Goal
